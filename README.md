@@ -3,4 +3,5 @@ Discover the ultimate music experience with our app! Stream millions of songs, c
 <br>
 <br>
 <br>
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/13545dfc-d03a-4940-b169-f58f82a44be3)
